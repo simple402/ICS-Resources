@@ -1,4 +1,4 @@
-# Comprehensive List of ICS Resources
+## Comprehensive List of ICS Resources
 
 * https://github.com/hslatman/awesome-industrial-control-system-security
 * https://github.com/ITI/ICS-Security-Tools
